@@ -142,4 +142,22 @@ For ongoing support, inquiries, or collaboration opportunities, please feel free
 
 For any inquiries or assistance, feel free to reach out to [vibhuworkon@gmail.com](mailto:vibhuworkon@gmail.com).
 
+
+
+
+
+## Boost Software License - Version 1.0
+
+Permission is granted, free of charge, to use, reproduce, display, distribute, execute, and transmit the Software, and to prepare derivative works, subject to the following conditions:
+
+- Include copyright notices and this license statement in all copies and derivative works.
+- The Software is provided "AS IS," without warranty of any kind.
+- The copyright holders are not liable for any damages or liability arising from the use of the Software.
+
+For detailed terms, see the [full license](LICENSE.txt).
+
+For inquiries or support, contact [vibhuworkon@gmail.com](mailto:vibhuworkon@gmail.com).
+
+
+
 ---
