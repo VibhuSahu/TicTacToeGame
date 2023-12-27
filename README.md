@@ -144,6 +144,18 @@ For any inquiries or assistance, feel free to reach out to [vibhuworkon@gmail.co
 
 
 
+## Screenshots
+
+**For a visual representation, refer to the included screenshot in the README file, showcasing the graphical elements of the Tic Tac Toe game.**
+
+The game features a distinctive logo, adding a visual element that enhances the overall aesthetic appeal of the interface.
+![Tic Tac Toe Screenshot](images/tic-tac-toe1.png)
+
+
+A simple Tic Tac Toe game built using Python and Tkinter. Enjoy playing with a friend!
+
+![Tic Tac Toe Screenshot](images/Screenshot.png)
+
 
 
 ## Boost Software License - Version 1.0

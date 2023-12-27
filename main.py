@@ -1,5 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
+from tkinter import PhotoImage
+
 
 
 def check_winner():
@@ -26,6 +28,15 @@ def toggle_player():
     
 root = tk.Tk()
 root.title("Tic-Tac-Toe")
+logo = PhotoImage(file="images/tic-tac-toe.png")
+root.iconphoto(False, logo)
+
+# Set the window size and make it fixed
+width, height = 400, 250
+root.geometry(f"{width}x{height}")
+root.minsize(width=width, height=height)
+root.maxsize(width=width, height=height)
+
 
 buttons = [tk.Button(root, text="", font=("normal", 25), width=6, height=2, command=lambda i=i: button_click(i)) for i in range(9)]
 
