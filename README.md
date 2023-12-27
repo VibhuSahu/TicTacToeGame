@@ -154,7 +154,7 @@ Permission is granted, free of charge, to use, reproduce, display, distribute, e
 - The Software is provided "AS IS," without warranty of any kind.
 - The copyright holders are not liable for any damages or liability arising from the use of the Software.
 
-For detailed terms, see the [full license](LICENSE.txt).
+For detailed terms, see the [full license](./LICENSE).
 
 For inquiries or support, contact [vibhuworkon@gmail.com](mailto:vibhuworkon@gmail.com).
 
